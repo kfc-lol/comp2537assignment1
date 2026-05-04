@@ -1,5 +1,8 @@
 Self-graded Assignment 1 Checklist
 
+Student Name: Kian Castro
+Student Number: 2B
+
     Criteria	
     ========
 [X]  A home page links to signup and login, if not logged in; and links to members and signout, if logged in.
@@ -14,6 +17,6 @@ Self-graded Assignment 1 Checklist
 [X]  A 404 page that "catches" all invalid page hits and that sets the status code to 404.
 [X]  Session information is stored in an encrypted MongoDB session database. Sessions expire after 1 hour.
  
-/50 (Total grade out of 50, 5 marks each x 10 items)
+50/50 (Total grade out of 50, 5 marks each x 10 items)
 
 *Note items are considered *fully* complete (marked with an x inside the box: [x]), OR incomplete (box is left empty: [ ])
